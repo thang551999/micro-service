@@ -69,7 +69,7 @@
     "joi": "^17.6.0",
     "kafkajs": "^2.2.0",
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.34",
+    "moment-timezone": "^0.5.41",
     "mongoose": "^6.5.2",
     "morgan": "^1.10.0",
     "nest-winston": "^1.7.0",
